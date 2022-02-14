@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**essykings/essykings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Am Esther Vaati , Am Full-stack dev, Code Instructor and Technical Writer. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Python Projects 
+- 🌱 I’m currently learning React
+- 💬 Ask me about all things  Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essykings)](https://github.com/essykings/github-readme-stats)
+
+
+#### Connect with me:
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/vaatiesther_.svg?style=social&label=Follow%20%40vaatiesther_)](https://twitter.com/vaatiesther_)
+
+
+
+
+
+
