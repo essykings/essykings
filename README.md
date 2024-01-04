@@ -2,7 +2,7 @@
 
 #### Am Esther Vaati , Am Full-stack dev and Tech Educator
 
-- 🔭 I’m currently working on Python Projects and Typescript Projects
+- 🔭 I’m currently working on Python and JavaScript Projects
 - 💬 Ask me about all things  Python and Javascript
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essykings)](https://github.com/essykings/github-readme-stats)
