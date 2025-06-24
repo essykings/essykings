@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Am Esther Vaati , Am Full-stack dev and Tech Educator
+#### Am Esther Vaati , Am Full-stack dev and Designer
 
 - 🔭 I’m currently working on Python and JavaScript Projects
 - 💬 Ask me about all things  Python and Javascript
