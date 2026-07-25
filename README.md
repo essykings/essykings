@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Am Esther Vaati , Am Full-stack dev and Designer
+#### Am Esther Vaati , A React developer and Technical writer
 
 - 🔭 I’m currently working on React Projects
 
