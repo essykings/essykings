@@ -2,8 +2,7 @@
 
 #### Am Esther Vaati , Am Full-stack dev and Designer
 
-- 🔭 I’m currently working on Python and JavaScript Projects
-- 💬 Ask me about all things  Python and Javascript
+- 🔭 I’m currently working on React Projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essykings)](https://github.com/essykings/github-readme-stats)
 
